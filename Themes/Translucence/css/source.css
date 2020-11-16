@@ -1,11 +1,11 @@
 :root {
-  --app-bg: url(https://i.imgur.com/U8bSjj5.jpg);
+  --app-bg: url(http://msafe.i0.tf/W7krm.png);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 8px;
-  --app-accent: #d73d3d;
-  --app-accent-rgb: 215,61,61;
-  --app-accent-text: #000;
+  --app-accent: #b13dd7;
+  --app-accent-rgb: 177,61,215;
+  --app-accent-text: #ffffff;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
   --messages-color: rgba(0,0,0,0.4);
